@@ -1,2 +1,2 @@
 # CodeEval
-My solutions to the challenges postes con https://www.codeeval.com
+My solutions to the challenges posted con https://www.codeeval.com
